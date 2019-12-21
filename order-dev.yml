@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: order
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    username: postgres
+    password: postgres
+    url: jdbc:postgresql://localhost:5432/postgres?useSSL=false
+  jpa:
+    show-sql: true
+env:
+  dev3 
