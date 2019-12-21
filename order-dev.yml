@@ -9,4 +9,4 @@ spring:
   jpa:
     show-sql: true
 env:
-  dev3 
+  dev2
